@@ -11,7 +11,7 @@ Vue.config.productionTip = false
 
 // Remover
 
-require('axios').defaults.headers.common['Authorization'] = 'bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwibmFtZSI6Ikd1c3Rhdm8gRmFicm8iLCJlbWFpbCI6Imd1c3Rhdm9Ac21va2luZ3NuYWtlcy5jb20uYnIiLCJhZG1pbiI6dHJ1ZSwiaWF0IjoxNTY0MDEzOTk1LCJleHAiOjE1NjQyNzMxOTV9.LIlZV2bQSPa-EyaVI8eL393542DtX4YNpDXAXSmcWvY'
+require('axios').defaults.headers.common['Authorization'] = 'bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwibmFtZSI6Ikd1c3Rhdm8gRmFicm8iLCJlbWFpbCI6Imd1c3Rhdm9Ac21va2luZ3NuYWtlcy5jb20uYnIiLCJhZG1pbiI6dHJ1ZSwiaWF0IjoxNTY0NzkyNDgzLCJleHAiOjE1NjUwNTE2ODN9.6HcnsfP2DZwqQwcQcZjgY2_KAMzfeCIC7pjPMxB8Bw4'
 
 new Vue({
   store,
