@@ -4,6 +4,7 @@ import 'font-awesome/css/font-awesome.css'
 import App from './App'
 import './config/bootstrap'
 import './config/msg'
+import './config/axios'
 import store from './config/store'
 import router from './config/router'
 
